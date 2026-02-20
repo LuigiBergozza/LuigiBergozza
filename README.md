@@ -2,7 +2,7 @@
 
 Atualmente focado em construir interfaces de alta performance e sistemas escaláveis. Tenho profunda experiência com o ecossistema **utility-first**, resolvendo problemas complexos de UI e arquitetura de componentes.
 
-- 🛠️ **Foco Atual:** Especialista em **Tailwind CSS v4** e Design Systems com **Tailwind Variants**.
+- 🛠️ **Foco Atual:** Especialista em **Tailwind CSS** e Design Systems com **Tailwind Variants**.
 - ⚙️ **Automação:** Experiência em pipelines de **CI/CD** usando GitHub Actions para deploys automatizados.
 - 📐 **Arquitetura:** Componentização modular com TypeScript para garantir código limpo e sustentável.
 
@@ -14,6 +14,7 @@ Atualmente focado em construir interfaces de alta performance e sistemas escalá
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=319994&color=38B2AC) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=006DB6&color=007ACC)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -28,6 +29,6 @@ Atualmente focado em construir interfaces de alta performance e sistemas escalá
 <a href="https://www.instagram.com/luigi.lb/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="mailto:SEUEMAIL@AQUI.com" target="_blank">
+<a href="mailto:lubber.luigi@outlook.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
