@@ -30,6 +30,7 @@ Atualmente focado em construir interfaces de alta performance e sistemas escalá
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 <br>
+</a>
 <a href="mailto:lubber.luigi@outlook.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Outlook"/>
 </a>
