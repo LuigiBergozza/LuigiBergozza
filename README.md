@@ -1,14 +1,14 @@
-### 🚀 Front-end Developer | React & Tailwind CSS Specialist
+### Front-end Developer | React & Tailwind CSS Specialist
 
-Atualmente focado em construir interfaces de alta performance e sistemas escaláveis. Tenho profunda experiência com o ecossistema **utility-first**, resolvendo problemas complexos de UI e arquitetura de componentes.
+Atualmente focado em construir interfaces de alta performance e sistemas escaláveis. Experiência com o ecossistema **utility-first**, resolvendo problemas complexos de UI e arquitetura de componentes.
 
-- 🛠️ **Foco Atual:** Especialista em **Tailwind CSS** e Design Systems com **Tailwind Variants**.
-- ⚙️ **Automação:** Experiência em pipelines de **CI/CD** usando GitHub Actions para deploys automatizados.
-- 📐 **Arquitetura:** Componentização modular com TypeScript para garantir código limpo e sustentável.
+- **Foco Atual:** Especialista em **Tailwind CSS** e Design Systems com **Tailwind Variants**.
+- **Automação:** Experiência em pipelines de **CI/CD** usando GitHub Actions para deploys automatizados.
+- **Arquitetura:** Componentização modular com TypeScript para garantir código limpo e sustentável.
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+### Stack Tecnológica
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=black&labelColor=59C5E3&color=61DAFB) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=319994&color=38B2AC) 
@@ -18,13 +18,13 @@ Atualmente focado em construir interfaces de alta performance e sistemas escalá
 
 ---
 
-### 📈 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiBergozza&theme=tokyonight" />
 
 ---
 
-### 📫 Vamos conversar?
+### Vamos conversar?
 
 <a href="https://www.instagram.com/luigi.lb/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
