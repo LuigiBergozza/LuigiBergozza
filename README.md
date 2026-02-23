@@ -2,9 +2,9 @@
 
 Atualmente focado em construir interfaces de alta performance e sistemas escaláveis. Experiência com o ecossistema **utility-first**, resolvendo problemas complexos de UI e arquitetura de componentes.
 
-- **Foco Atual:** Especialista em **Tailwind CSS** e Design Systems com **Tailwind Variants**.
-- **Automação:** Experiência em pipelines de **CI/CD** usando GitHub Actions para deploys automatizados.
-- **Arquitetura:** Componentização modular com TypeScript para garantir código limpo e sustentável.
+- **Foco Atual:** Especialista em **Tailwind CSS** e Design Systems com **Tailwind Variants**
+- **Automação:** Experiência em pipelines de **CI/CD** usando GitHub Actions para deploys automatizados
+- **Arquitetura:** Componentização modular com TypeScript para garantir código limpo e sustentável
 
 ---
 
