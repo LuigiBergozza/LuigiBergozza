@@ -4,7 +4,6 @@
 <details >
 <summary><b>🇧🇷 Português</b></summary>
 <br>
-
 ### Desenvolvedor Front-end | Especialista em React & Tailwind CSS
 
 Atualmente focado em construir interfaces de alta performance e sistemas escaláveis. Experiência com o ecossistema **utility-first**, resolvendo problemas complexos de UI e arquitetura de componentes.
@@ -18,7 +17,6 @@ Atualmente focado em construir interfaces de alta performance e sistemas escalá
 <details open>
 <summary><b>🇺🇸 English</b></summary>
 <br>
-
 ### Front-end Developer | React & Tailwind CSS Specialist
 
 Currently focused on building high-performance interfaces and scalable systems. Experienced with the **utility-first** ecosystem, solving complex UI challenges and component architecture.
