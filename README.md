@@ -1,5 +1,3 @@
-# Hi there, I'm Luigi! 👋
-
 <!-- Abas de Idioma -->
 <details >
 <summary><b>🇧🇷 Português</b></summary>
